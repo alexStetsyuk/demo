@@ -5,56 +5,120 @@
       "abbreviation": "ATL",
       "teamName": "Atlanta Hawks",
       "simpleName": "Hawks",
-      "location": "Atlanta"
+      "location": "Atlanta",
+      "rosterLink": "https://www.espn.com/nba/team/roster/_/name/atl/atlanta-hawks"
     },
     {
       "id": 1610612738,
       "abbreviation": "BOS",
       "teamName": "Boston Celtics",
       "simpleName": "Celtics",
-      "location": "Boston"
+      "location": "Boston",
+      "rosterLink": "https://www.espn.com/nba/team/roster/_/name/bos/boston-celtics"
     },
     {
       "id": 1610612751,
       "abbreviation": "BKN",
       "teamName": "Brooklyn Nets",
       "simpleName": "Nets",
-      "location": "Brooklyn"
+      "location": "Brooklyn",
+      "rosterLink":"https://www.espn.com/nba/team/roster/_/name/bkn"
+    },
+    {
+      "id": 1610612766,
+      "abbreviation": "CHA",
+      "teamName": "Charlotte Hornets",
+      "simpleName": "Hornets",
+      "location": "Charlotte",
+      "rosterLink": "https://www.espn.com/nba/team/roster/_/name/cha/charlotte-hornets"
+    },
+    {
+      "id": 1610612741,
+      "abbreviation": "CHI",
+      "teamName": "Chicago Bulls",
+      "simpleName": "Bulls",
+      "location": "Chicago",
+      "rosterLink":"https://www.espn.com/nba/team/roster/_/name/chi/chicago-bulls"
+    },
+    {
+      "id": 1610612739,
+      "abbreviation": "CLE",
+      "teamName": "Cleveland Cavaliers",
+      "simpleName": "Cavaliers",
+      "location": "Cleveland",
+      "rosterLink":"https://www.espn.com/nba/team/roster/_/name/cle/cleveland-cavaliers"
     },
     {
       "id": 1610612755,
       "abbreviation": "PHI",
       "teamName": "Philadelphia 76ers",
       "simpleName": "76ers",
-      "location": "Philadelphia"
+      "location": "Philadelphia",
+      "rosterLink": "https://www.espn.com/nba/team/roster/_/name/phi/philadelphia-76ers"
     },
     {
       "id": 1610612749,
       "abbreviation": "MIL",
       "teamName": "Milwaukee Bucks",
       "simpleName": "Bucks",
-      "location": "Milwaukee"
+      "location": "Milwaukee",
+      "rosterLink":"https://www.espn.com/nba/team/roster/_/name/mil/milwaukee-bucks"
     },
     {
       "id": 1610612752,
       "abbreviation": "NYK",
       "teamName": "New York Knicks",
       "simpleName": "Knicks",
-      "location": "New York"
+      "location": "New York",
+      "rosterLink": "https://www.espn.com/nba/team/roster/_/name/ny/new-york-knicks"
     },
     {
       "id": 1610612748,
       "abbreviation": "MIA",
       "teamName": "Miami Heat",
       "simpleName": "Heat",
-      "location": "Miami"
+      "location": "Miami",
+      "rosterLink":"https://www.espn.com/nba/team/roster/_/name/mia/miami-heat"
     },
     {
       "id": 1610612764,
       "abbreviation": "WAS",
       "teamName": "Washington Wizards",
       "simpleName": "Wizards",
-      "location": "Washington"
+      "location": "Washington",
+      "rosterLink":"https://www.espn.com/nba/team/roster/_/name/wsh/washington-wizards"
+    },
+    {
+      "id": 1610612754,
+      "abbreviation": "IND",
+      "teamName": "Indiana Pacers",
+      "simpleName": "Pacers",
+      "location": "Indiana",
+      "rosterLink":"https://www.espn.com/nba/team/roster/_/name/ind/indiana-pacers"
+    },
+    {
+      "id": 1610612761,
+      "abbreviation": "TOR",
+      "teamName": "Toronto Raptors",
+      "simpleName": "Raptors",
+      "location": "Toronto",
+      "rosterLink": "https://www.espn.com/nba/team/roster/_/name/tor/toronto-raptors"
+    },
+    {
+      "id": 1610612753,
+      "abbreviation": "ORL",
+      "teamName": "Orlando Magic",
+      "simpleName": "Magic",
+      "location": "Orlando",
+      "rosterLink":"https://www.espn.com/nba/team/roster/_/name/orl/orlando-magic"
+    },
+    {
+      "id": 1610612765,
+      "abbreviation": "DET",
+      "teamName": "Detroit Pistons",
+      "simpleName": "Pistons",
+      "location": "Detroit",
+      "rosterLink":"https://www.espn.com/nba/team/roster/_/name/det/detroit-pistons"
     }
   ],
   "westConference": [
@@ -63,56 +127,120 @@
       "abbreviation": "DAL",
       "teamName": "Dallas Mavericks",
       "simpleName": "Mavericks",
-      "location": "Dallas"
+      "location": "Dallas",
+      "rosterLink":"https://www.espn.com/nba/team/roster/_/name/dal/dallas-mavericks"
+    },
+    {
+      "id": 1610612744,
+      "abbreviation": "GSW",
+      "teamName": "Golden State Warriors",
+      "simpleName": "Warriors",
+      "location": "Golden State",
+      "rosterLink":"https://www.espn.com/nba/team/roster/_/name/gs/golden-state-warriors"
     },
     {
       "id": 1610612762,
       "abbreviation": "UTA",
       "teamName": "Utah Jazz",
       "simpleName": "Jazz",
-      "location": "Utah"
+      "location": "Utah",
+      "rosterLink":"https://www.espn.com/nba/team/roster/_/name/utah/utah-jazz"
     },
     {
       "id": 1610612756,
       "abbreviation": "PHX",
       "teamName": "Phoenix Suns",
       "simpleName": "Suns",
-      "location": "Phoenix"
+      "location": "Phoenix",
+      "rosterLink":"https://www.espn.com/nba/team/roster/_/name/phx/phoenix-suns"
     },
     {
       "id": 1610612743,
       "abbreviation": "DEN",
       "teamName": "Denver Nuggets",
       "simpleName": "Nuggets",
-      "location": "Denver"
+      "location": "Denver",
+      "rosterLink":"https://www.espn.com/nba/team/roster/_/name/den/denver-nuggets"
     },
     {
       "id": 1610612746,
       "abbreviation": "LAC",
       "teamName": "Los Angeles Clippers",
       "simpleName": "Clippers",
-      "location": "Los Angeles"
+      "location": "Los Angeles",
+      "rosterLink":"https://www.espn.com/nba/team/roster/_/name/lac/la-clippers"
     },
     {
       "id": 1610612757,
       "abbreviation": "POR",
       "teamName": "Portland Trail Blazers",
       "simpleName": "Trail Blazers",
-      "location": "Portland"
+      "location": "Portland",
+      "rosterLink":"https://www.espn.com/nba/team/roster/_/name/por/portland-trail-blazers"
     },
     {
       "id": 1610612747,
       "abbreviation": "LAL",
       "teamName": "Los Angeles Lakers",
       "simpleName": "Lakers",
-      "location": "Los Angeles"
+      "location": "Los Angeles",
+      "rosterLink":"https://www.espn.com/nba/team/roster/_/name/lal/los-angeles-lakers"
     },
     {
       "id": 1610612763,
       "abbreviation": "MEM",
       "teamName": "Memphis Grizzlies",
       "simpleName": "Grizzlies",
-      "location": "Memphis"
+      "location": "Memphis",
+      "rosterLink":"https://www.espn.com/nba/team/roster/_/name/mem/memphis-grizzlies"
+    },
+    {
+      "id": 1610612759,
+      "abbreviation": "SAS",
+      "teamName": "San Antonio Spurs",
+      "simpleName": "Spurs",
+      "location": "San Antonio",
+      "rosterLink":"https://www.espn.com/nba/team/roster/_/name/sa/san-antonio-spurs"
+    },
+    {
+      "id": 1610612740,
+      "abbreviation": "NOP",
+      "teamName": "New Orleans Pelicans",
+      "simpleName": "Pelicans",
+      "location": "New Orleans",
+      "rosterLink":"https://www.espn.com/nba/team/roster/_/name/no/new-orleans-pelicans"
+    },
+    {
+      "id": 1610612758,
+      "abbreviation": "SAC",
+      "teamName": "Sacramento Kings",
+      "simpleName": "Kings",
+      "location": "Sacramento",
+      "rosterLink":"https://www.espn.com/nba/team/roster/_/name/sac/sacramento-kings"
+    },
+    {
+      "id": 1610612750,
+      "abbreviation": "MIN",
+      "teamName": "Minnesota Timberwolves",
+      "simpleName": "Timberwolves",
+      "location": "Minnesota",
+      "rosterLink":"https://www.espn.com/nba/team/roster/_/name/min/minnesota-timberwolves"
+    },
+    {
+      "id": 1610612760,
+      "abbreviation": "OKC",
+      "teamName": "Oklahoma City Thunder",
+      "simpleName": "Thunder",
+      "location": "Oklahoma City",
+      "rosterLink":"https://www.espn.com/nba/team/roster/_/name/okc/oklahoma-city-thunder"
+    },
+    {
+      "id": 1610612745,
+      "abbreviation": "HOU",
+      "teamName": "Houston Rockets",
+      "simpleName": "Rockets",
+      "location": "Houston",
+      "rosterLink":"https://www.espn.com/nba/team/roster/_/name/hou/houston-rockets"
     }
   ]
 }
