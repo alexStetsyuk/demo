@@ -213,18 +213,12 @@
       "location": "Houston"
     }
   ],
-  "players": [
+    "players": [
     {
       "firstName": "Precious",
       "lastName": "Achiuwa",
       "playerId": 1630173,
       "id": 1610612748
-    },
-    {
-      "firstName": "Jaylen",
-      "lastName": "Adams",
-      "playerId": 1629121,
-      "id": 0
     },
     {
       "firstName": "Steven",
@@ -237,12 +231,6 @@
       "lastName": "Adebayo",
       "playerId": 1628389,
       "id": 1610612748
-    },
-    {
-      "firstName": "LaMarcus",
-      "lastName": "Aldridge",
-      "playerId": 200746,
-      "id": 0
     },
     {
       "firstName": "Ty-Shon",
@@ -539,18 +527,6 @@
       "id": 1610612743
     },
     {
-      "firstName": "Marques",
-      "lastName": "Bolden",
-      "playerId": 1629716,
-      "id": 0
-    },
-    {
-      "firstName": "Jordan",
-      "lastName": "Bone",
-      "playerId": 1629648,
-      "id": 0
-    },
-    {
       "firstName": "Isaac",
       "lastName": "Bonga",
       "playerId": 1629067,
@@ -567,12 +543,6 @@
       "lastName": "Boucher",
       "playerId": 1628449,
       "id": 1610612761
-    },
-    {
-      "firstName": "Brian",
-      "lastName": "Bowen II",
-      "playerId": 1628968,
-      "id": 0
     },
     {
       "firstName": "Avery",
@@ -719,12 +689,6 @@
       "id": 1610612748
     },
     {
-      "firstName": "Bruno",
-      "lastName": "Caboclo",
-      "playerId": 203998,
-      "id": 0
-    },
-    {
       "firstName": "Devontae",
       "lastName": "Cacok",
       "playerId": 1629719,
@@ -747,12 +711,6 @@
       "lastName": "Cancar",
       "playerId": 1628427,
       "id": 1610612743
-    },
-    {
-      "firstName": "Devin",
-      "lastName": "Cannady",
-      "playerId": 1629962,
-      "id": 0
     },
     {
       "firstName": "Clint",
@@ -801,12 +759,6 @@
       "lastName": "Chiozza",
       "playerId": 1629185,
       "id": 1610612751
-    },
-    {
-      "firstName": "Marquese",
-      "lastName": "Chriss",
-      "playerId": 1627737,
-      "id": 0
     },
     {
       "firstName": "Gary",
@@ -861,12 +813,6 @@
       "lastName": "Connaughton",
       "playerId": 1626192,
       "id": 1610612749
-    },
-    {
-      "firstName": "Quinn",
-      "lastName": "Cook",
-      "playerId": 1626188,
-      "id": 0
     },
     {
       "firstName": "Tyler",
@@ -1079,12 +1025,6 @@
       "id": 1610612757
     },
     {
-      "firstName": "Henry",
-      "lastName": "Ellenson",
-      "playerId": 1627740,
-      "id": 0
-    },
-    {
       "firstName": "Wayne",
       "lastName": "Ellington",
       "playerId": 201961,
@@ -1133,12 +1073,6 @@
       "id": 1610612741
     },
     {
-      "firstName": "Terrance",
-      "lastName": "Ferguson",
-      "playerId": 1628390,
-      "id": 0
-    },
-    {
       "firstName": "Bruno",
       "lastName": "Fernando",
       "playerId": 1628981,
@@ -1155,12 +1089,6 @@
       "lastName": "Finney-Smith",
       "playerId": 1627827,
       "id": 1610612742
-    },
-    {
-      "firstName": "Malik",
-      "lastName": "Fitts",
-      "playerId": 1630238,
-      "id": 0
     },
     {
       "firstName": "Malachi",
@@ -1191,12 +1119,6 @@
       "lastName": "Fox",
       "playerId": 1628368,
       "id": 1610612758
-    },
-    {
-      "firstName": "Robert",
-      "lastName": "Franks",
-      "playerId": 1629606,
-      "id": 0
     },
     {
       "firstName": "Tim",
@@ -1377,12 +1299,6 @@
       "lastName": "Hachimura",
       "playerId": 1629060,
       "id": 1610612764
-    },
-    {
-      "firstName": "Ashton",
-      "lastName": "Hagans",
-      "playerId": 1630204,
-      "id": 0
     },
     {
       "firstName": "Tyrese",
@@ -1739,12 +1655,6 @@
       "id": 1610612751
     },
     {
-      "firstName": "DaQuan",
-      "lastName": "Jeffries",
-      "playerId": 1629610,
-      "id": 0
-    },
-    {
       "firstName": "Ty",
       "lastName": "Jerome",
       "playerId": 1629660,
@@ -1803,12 +1713,6 @@
       "lastName": "Jones",
       "playerId": 1627745,
       "id": 1610612758
-    },
-    {
-      "firstName": "Mason",
-      "lastName": "Jones",
-      "playerId": 1630222,
-      "id": 0
     },
     {
       "firstName": "Tre",
@@ -1907,12 +1811,6 @@
       "id": 1610612738
     },
     {
-      "firstName": "Rodions",
-      "lastName": "Kurucs",
-      "playerId": 1629066,
-      "id": 0
-    },
-    {
       "firstName": "Kyle",
       "lastName": "Kuzma",
       "playerId": 1628398,
@@ -1961,12 +1859,6 @@
       "id": 1610612757
     },
     {
-      "firstName": "Jalen",
-      "lastName": "Lecque",
-      "playerId": 1629665,
-      "id": 0
-    },
-    {
       "firstName": "Damion",
       "lastName": "Lee",
       "playerId": 1627814,
@@ -1989,12 +1881,6 @@
       "lastName": "Leonard",
       "playerId": 202695,
       "id": 1610612746
-    },
-    {
-      "firstName": "Meyers",
-      "lastName": "Leonard",
-      "playerId": 203086,
-      "id": 0
     },
     {
       "firstName": "Kira",
@@ -2063,28 +1949,10 @@
       "id": 1610612759
     },
     {
-      "firstName": "Will",
-      "lastName": "Magnay",
-      "playerId": 1630266,
-      "id": 0
-    },
-    {
-      "firstName": "Thon",
-      "lastName": "Maker",
-      "playerId": 1627748,
-      "id": 0
-    },
-    {
       "firstName": "Theo",
       "lastName": "Maledon",
       "playerId": 1630177,
       "id": 1610612760
-    },
-    {
-      "firstName": "Karim",
-      "lastName": "Mane",
-      "playerId": 1630211,
-      "id": 0
     },
     {
       "firstName": "Terance",
@@ -2147,22 +2015,10 @@
       "id": 1610612745
     },
     {
-      "firstName": "Frank",
-      "lastName": "Mason",
-      "playerId": 1628412,
-      "id": 0
-    },
-    {
       "firstName": "Garrison",
       "lastName": "Mathews",
       "playerId": 1629726,
       "id": 1610612764
-    },
-    {
-      "firstName": "Dakota",
-      "lastName": "Mathias",
-      "playerId": 1629751,
-      "id": 0
     },
     {
       "firstName": "Wesley",
@@ -2181,12 +2037,6 @@
       "lastName": "Mays",
       "playerId": 1630219,
       "id": 1610612737
-    },
-    {
-      "firstName": "Patrick",
-      "lastName": "McCaw",
-      "playerId": 1627775,
-      "id": 0
     },
     {
       "firstName": "CJ",
@@ -2283,12 +2133,6 @@
       "lastName": "Middleton",
       "playerId": 203114,
       "id": 1610612749
-    },
-    {
-      "firstName": "Darius",
-      "lastName": "Miller",
-      "playerId": 203121,
-      "id": 0
     },
     {
       "firstName": "Patty",
@@ -2579,22 +2423,10 @@
       "id": 1610612744
     },
     {
-      "firstName": "Anzejs",
-      "lastName": "Pasecniks",
-      "playerId": 1628394,
-      "id": 0
-    },
-    {
       "firstName": "Patrick",
       "lastName": "Patterson",
       "playerId": 202335,
       "id": 1610612746
-    },
-    {
-      "firstName": "Justin",
-      "lastName": "Patton",
-      "playerId": 1628383,
-      "id": 0
     },
     {
       "firstName": "Chris",
@@ -2613,12 +2445,6 @@
       "lastName": "Payton",
       "playerId": 203901,
       "id": 1610612752
-    },
-    {
-      "firstName": "Gary",
-      "lastName": "Payton II",
-      "playerId": 1627780,
-      "id": 0
     },
     {
       "firstName": "Norvel",
@@ -2649,12 +2475,6 @@
       "lastName": "Poeltl",
       "playerId": 1627751,
       "id": 1610612759
-    },
-    {
-      "firstName": "Vincent",
-      "lastName": "Poirier",
-      "playerId": 1629738,
-      "id": 0
     },
     {
       "firstName": "Aleksej",
@@ -2807,40 +2627,16 @@
       "id": 1610612743
     },
     {
-      "firstName": "Andre",
-      "lastName": "Roberson",
-      "playerId": 203460,
-      "id": 0
-    },
-    {
       "firstName": "Duncan",
       "lastName": "Robinson",
       "playerId": 1629130,
       "id": 1610612748
     },
     {
-      "firstName": "Jerome",
-      "lastName": "Robinson",
-      "playerId": 1629010,
-      "id": 0
-    },
-    {
-      "firstName": "Justin",
-      "lastName": "Robinson",
-      "playerId": 1629620,
-      "id": 0
-    },
-    {
       "firstName": "Mitchell",
       "lastName": "Robinson",
       "playerId": 1629011,
       "id": 1610612752
-    },
-    {
-      "firstName": "Glenn",
-      "lastName": "Robinson III",
-      "playerId": 203922,
-      "id": 0
     },
     {
       "firstName": "Isaiah",
@@ -2945,22 +2741,10 @@
       "id": 1610612751
     },
     {
-      "firstName": "Iman",
-      "lastName": "Shumpert",
-      "playerId": 202697,
-      "id": 0
-    },
-    {
       "firstName": "Pascal",
       "lastName": "Siakam",
       "playerId": 1627783,
       "id": 1610612761
-    },
-    {
-      "firstName": "Chris",
-      "lastName": "Silva",
-      "playerId": 1629735,
-      "id": 0
     },
     {
       "firstName": "Ben",
@@ -3015,12 +2799,6 @@
       "lastName": "Snell",
       "playerId": 203503,
       "id": 1610612737
-    },
-    {
-      "firstName": "Ray",
-      "lastName": "Spalding",
-      "playerId": 1629034,
-      "id": 0
     },
     {
       "firstName": "Cassius",
@@ -3093,12 +2871,6 @@
       "lastName": "Thomas",
       "playerId": 1630271,
       "id": 1610612739
-    },
-    {
-      "firstName": "Isaiah",
-      "lastName": "Thomas",
-      "playerId": 202738,
-      "id": 0
     },
     {
       "firstName": "Khyri",
@@ -3251,12 +3023,6 @@
       "id": 1610612748
     },
     {
-      "firstName": "Noah",
-      "lastName": "Vonleh",
-      "playerId": 203943,
-      "id": 0
-    },
-    {
       "firstName": "Nikola",
       "lastName": "Vucevic",
       "playerId": 202696,
@@ -3357,12 +3123,6 @@
       "lastName": "Whiteside",
       "playerId": 202355,
       "id": 1610612758
-    },
-    {
-      "firstName": "Greg",
-      "lastName": "Whittington",
-      "playerId": 204222,
-      "id": 0
     },
     {
       "firstName": "Andrew",
@@ -3484,5 +3244,5 @@
       "playerId": 1627826,
       "id": 1610612746
     }
-  ],
+  ]
 }
