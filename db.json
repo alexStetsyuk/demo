@@ -55,7 +55,7 @@
       "teamName": "Washington Wizards",
       "simpleName": "Wizards",
       "location": "Washington"
-    },
+    }
   ],
   "westConference": [
     {
@@ -113,6 +113,6 @@
       "teamName": "Memphis Grizzlies",
       "simpleName": "Grizzlies",
       "location": "Memphis"
-    },
+    }
   ]
 }
