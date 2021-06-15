@@ -117,36 +117,6 @@
   ],
   "players":[
   {
-    "firstName": "Bam",
-    "lastName": "Adebayo",
-    "playerId": 1628389,
-    "id": 1610612748
-  },
-  {
-    "firstName": "Giannis",
-    "lastName": "Antetokounmpo",
-    "playerId": 203507,
-    "id": 1610612749
-  },
-  {
-    "firstName": "Carmelo",
-    "lastName": "Anthony",
-    "playerId": 2546,
-    "id": 1610612757
-  },
-  {
-    "firstName": "Udoka",
-    "lastName": "Azubuike",
-    "playerId": 1628962,
-    "id": 1610612762
-  },
-  {
-    "firstName": "Bogdan",
-    "lastName": "Bogdanovic",
-    "playerId": 203992,
-    "id": 1610612737
-  },
-  {
     "firstName": "Bojan",
     "lastName": "Bogdanovic",
     "playerId": 202711,
@@ -471,30 +441,6 @@
     "id": 1610612752
   },
   {
-    "firstName": "Dario",
-    "lastName": "Saric",
-    "playerId": 203967,
-    "id": 1610612756
-  },
-  {
-    "firstName": "Anfernee",
-    "lastName": "Simons",
-    "playerId": 1629014,
-    "id": 1610612757
-  },
-  {
-    "firstName": "Marcus",
-    "lastName": "Smart",
-    "playerId": 203935,
-    "id": 1610612738
-  },
-  {
-    "firstName": "Ish",
-    "lastName": "Smith",
-    "playerId": 202397,
-    "id": 1610612764
-  },
-  {
     "firstName": "Jalen",
     "lastName": "Smith",
     "playerId": 1630188,
@@ -547,18 +493,6 @@
     "lastName": "Tucker",
     "playerId": 1629730,
     "id": 1610612755
-  },
-  {
-    "firstName": "Jonas",
-    "lastName": "Valanciunas",
-    "playerId": 202685,
-    "id": 1610612763
-  },
-  {
-    "firstName": "Luca",
-    "lastName": "Vildoza",
-    "playerId": 1630492,
-    "id": 1610612752
   },
   {
     "firstName": "Kemba",
