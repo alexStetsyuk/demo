@@ -114,5 +114,1621 @@
       "simpleName": "Grizzlies",
       "location": "Memphis"
     }
-  ]
+  ],
+  "players": [
+  {
+    "firstName": "Precious",
+    "lastName": "Achiuwa",
+    "playerId": 1630173,
+    "id": 1610612748
+  },
+  {
+    "firstName": "Bam",
+    "lastName": "Adebayo",
+    "playerId": 1628389,
+    "id": 1610612748
+  },
+  {
+    "firstName": "Ty-Shon",
+    "lastName": "Alexander",
+    "playerId": 1630234,
+    "id": 1610612756
+  },
+  {
+    "firstName": "Grayson",
+    "lastName": "Allen",
+    "playerId": 1628960,
+    "id": 1610612763
+  },
+  {
+    "firstName": "Kyle",
+    "lastName": "Anderson",
+    "playerId": 203937,
+    "id": 1610612763
+  },
+  {
+    "firstName": "Giannis",
+    "lastName": "Antetokounmpo",
+    "playerId": 203507,
+    "id": 1610612749
+  },
+  {
+    "firstName": "Kostas",
+    "lastName": "Antetokounmpo",
+    "playerId": 1628961,
+    "id": 1610612747
+  },
+  {
+    "firstName": "Thanasis",
+    "lastName": "Antetokounmpo",
+    "playerId": 203648,
+    "id": 1610612749
+  },
+  {
+    "firstName": "Carmelo",
+    "lastName": "Anthony",
+    "playerId": 2546,
+    "id": 1610612757
+  },
+  {
+    "firstName": "Trevor",
+    "lastName": "Ariza",
+    "playerId": 2772,
+    "id": 1610612748
+  },
+  {
+    "firstName": "Deni",
+    "lastName": "Avdija",
+    "playerId": 1630166,
+    "id": 1610612764
+  },
+  {
+    "firstName": "Deandre",
+    "lastName": "Ayton",
+    "playerId": 1629028,
+    "id": 1610612756
+  },
+  {
+    "firstName": "Udoka",
+    "lastName": "Azubuike",
+    "playerId": 1628962,
+    "id": 1610612762
+  },
+  {
+    "firstName": "Desmond",
+    "lastName": "Bane",
+    "playerId": 1630217,
+    "id": 1610612763
+  },
+  {
+    "firstName": "RJ",
+    "lastName": "Barrett",
+    "playerId": 1629628,
+    "id": 1610612752
+  },
+  {
+    "firstName": "Will",
+    "lastName": "Barton",
+    "playerId": 203115,
+    "id": 1610612743
+  },
+  {
+    "firstName": "Nicolas",
+    "lastName": "Batum",
+    "playerId": 201587,
+    "id": 1610612746
+  },
+  {
+    "firstName": "Bradley",
+    "lastName": "Beal",
+    "playerId": 203078,
+    "id": 1610612764
+  },
+  {
+    "firstName": "Davis",
+    "lastName": "Bertans",
+    "playerId": 202722,
+    "id": 1610612764
+  },
+  {
+    "firstName": "Patrick",
+    "lastName": "Beverley",
+    "playerId": 201976,
+    "id": 1610612746
+  },
+  {
+    "firstName": "Tyler",
+    "lastName": "Bey",
+    "playerId": 1630189,
+    "id": 1610612742
+  },
+  {
+    "firstName": "Nemanja",
+    "lastName": "Bjelica",
+    "playerId": 202357,
+    "id": 1610612748
+  },
+  {
+    "firstName": "Keljin",
+    "lastName": "Blevins",
+    "playerId": 1629833,
+    "id": 1610612757
+  },
+  {
+    "firstName": "Bogdan",
+    "lastName": "Bogdanovic",
+    "playerId": 203992,
+    "id": 1610612737
+  },
+  {
+    "firstName": "Bojan",
+    "lastName": "Bogdanovic",
+    "playerId": 202711,
+    "id": 1610612762
+  },
+  {
+    "firstName": "Bol",
+    "lastName": "Bol",
+    "playerId": 1629626,
+    "id": 1610612743
+  },
+  {
+    "firstName": "Isaac",
+    "lastName": "Bonga",
+    "playerId": 1629067,
+    "id": 1610612764
+  },
+  {
+    "firstName": "Devin",
+    "lastName": "Booker",
+    "playerId": 1626164,
+    "id": 1610612756
+  },
+  {
+    "firstName": "Jarrell",
+    "lastName": "Brantley",
+    "playerId": 1629714,
+    "id": 1610612762
+  },
+  {
+    "firstName": "Mikal",
+    "lastName": "Bridges",
+    "playerId": 1628969,
+    "id": 1610612756
+  },
+  {
+    "firstName": "Dillon",
+    "lastName": "Brooks",
+    "playerId": 1628415,
+    "id": 1610612763
+  },
+  {
+    "firstName": "Bruce",
+    "lastName": "Brown",
+    "playerId": 1628971,
+    "id": 1610612751
+  },
+  {
+    "firstName": "Jaylen",
+    "lastName": "Brown",
+    "playerId": 1627759,
+    "id": 1610612738
+  },
+  {
+    "firstName": "Jalen",
+    "lastName": "Brunson",
+    "playerId": 1628973,
+    "id": 1610612742
+  },
+  {
+    "firstName": "Elijah",
+    "lastName": "Bryant",
+    "playerId": 1629091,
+    "id": 1610612749
+  },
+  {
+    "firstName": "Thomas",
+    "lastName": "Bryant",
+    "playerId": 1628418,
+    "id": 1610612764
+  },
+  {
+    "firstName": "Reggie",
+    "lastName": "Bullock",
+    "playerId": 203493,
+    "id": 1610612752
+  },
+  {
+    "firstName": "Trey",
+    "lastName": "Burke",
+    "playerId": 203504,
+    "id": 1610612742
+  },
+  {
+    "firstName": "Alec",
+    "lastName": "Burks",
+    "playerId": 202692,
+    "id": 1610612752
+  },
+  {
+    "firstName": "Jimmy",
+    "lastName": "Butler",
+    "playerId": 202710,
+    "id": 1610612748
+  },
+  {
+    "firstName": "Devontae",
+    "lastName": "Cacok",
+    "playerId": 1629719,
+    "id": 1610612747
+  },
+  {
+    "firstName": "Kentavious",
+    "lastName": "Caldwell-Pope",
+    "playerId": 203484,
+    "id": 1610612747
+  },
+  {
+    "firstName": "Facundo",
+    "lastName": "Campazzo",
+    "playerId": 1630267,
+    "id": 1610612743
+  },
+  {
+    "firstName": "Vlatko",
+    "lastName": "Cancar",
+    "playerId": 1628427,
+    "id": 1610612743
+  },
+  {
+    "firstName": "Clint",
+    "lastName": "Capela",
+    "playerId": 203991,
+    "id": 1610612737
+  },
+  {
+    "firstName": "Jevon",
+    "lastName": "Carter",
+    "playerId": 1628975,
+    "id": 1610612756
+  },
+  {
+    "firstName": "Alex",
+    "lastName": "Caruso",
+    "playerId": 1627936,
+    "id": 1610612747
+  },
+  {
+    "firstName": "Willie",
+    "lastName": "Cauley-Stein",
+    "playerId": 1626161,
+    "id": 1610612742
+  },
+  {
+    "firstName": "Chris",
+    "lastName": "Chiozza",
+    "playerId": 1629185,
+    "id": 1610612751
+  },
+  {
+    "firstName": "Gary",
+    "lastName": "Clark",
+    "playerId": 1629109,
+    "id": 1610612755
+  },
+  {
+    "firstName": "Brandon",
+    "lastName": "Clarke",
+    "playerId": 1629634,
+    "id": 1610612763
+  },
+  {
+    "firstName": "Jordan",
+    "lastName": "Clarkson",
+    "playerId": 203903,
+    "id": 1610612762
+  },
+  {
+    "firstName": "Nicolas",
+    "lastName": "Claxton",
+    "playerId": 1629651,
+    "id": 1610612751
+  },
+  {
+    "firstName": "Amir",
+    "lastName": "Coffey",
+    "playerId": 1629599,
+    "id": 1610612746
+  },
+  {
+    "firstName": "John",
+    "lastName": "Collins",
+    "playerId": 1628381,
+    "id": 1610612737
+  },
+  {
+    "firstName": "Zach",
+    "lastName": "Collins",
+    "playerId": 1628380,
+    "id": 1610612757
+  },
+  {
+    "firstName": "Mike",
+    "lastName": "Conley",
+    "playerId": 201144,
+    "id": 1610612762
+  },
+  {
+    "firstName": "Pat",
+    "lastName": "Connaughton",
+    "playerId": 1626192,
+    "id": 1610612749
+  },
+  {
+    "firstName": "DeMarcus",
+    "lastName": "Cousins",
+    "playerId": 202326,
+    "id": 1610612746
+  },
+  {
+    "firstName": "Robert",
+    "lastName": "Covington",
+    "playerId": 203496,
+    "id": 1610612757
+  },
+  {
+    "firstName": "Torrey",
+    "lastName": "Craig",
+    "playerId": 1628470,
+    "id": 1610612756
+  },
+  {
+    "firstName": "Jae",
+    "lastName": "Crowder",
+    "playerId": 203109,
+    "id": 1610612756
+  },
+  {
+    "firstName": "Seth",
+    "lastName": "Curry",
+    "playerId": 203552,
+    "id": 1610612755
+  },
+  {
+    "firstName": "Anthony",
+    "lastName": "Davis",
+    "playerId": 203076,
+    "id": 1610612747
+  },
+  {
+    "firstName": "Dewayne",
+    "lastName": "Dedmon",
+    "playerId": 203473,
+    "id": 1610612748
+  },
+  {
+    "firstName": "Donte",
+    "lastName": "DiVincenzo",
+    "playerId": 1628978,
+    "id": 1610612749
+  },
+  {
+    "firstName": "Mamadi",
+    "lastName": "Diakite",
+    "playerId": 1629603,
+    "id": 1610612749
+  },
+  {
+    "firstName": "Spencer",
+    "lastName": "Dinwiddie",
+    "playerId": 203915,
+    "id": 1610612751
+  },
+  {
+    "firstName": "Luka",
+    "lastName": "Doncic",
+    "playerId": 1629029,
+    "id": 1610612742
+  },
+  {
+    "firstName": "PJ",
+    "lastName": "Dozier",
+    "playerId": 1628408,
+    "id": 1610612743
+  },
+  {
+    "firstName": "Goran",
+    "lastName": "Dragic",
+    "playerId": 201609,
+    "id": 1610612748
+  },
+  {
+    "firstName": "Andre",
+    "lastName": "Drummond",
+    "playerId": 203083,
+    "id": 1610612747
+  },
+  {
+    "firstName": "Jared",
+    "lastName": "Dudley",
+    "playerId": 201162,
+    "id": 1610612747
+  },
+  {
+    "firstName": "Kris",
+    "lastName": "Dunn",
+    "playerId": 1627739,
+    "id": 1610612737
+  },
+  {
+    "firstName": "Kevin",
+    "lastName": "Durant",
+    "playerId": 201142,
+    "id": 1610612751
+  },
+  {
+    "firstName": "Carsen",
+    "lastName": "Edwards",
+    "playerId": 1629035,
+    "id": 1610612738
+  },
+  {
+    "firstName": "CJ",
+    "lastName": "Elleby",
+    "playerId": 1629604,
+    "id": 1610612757
+  },
+  {
+    "firstName": "Joel",
+    "lastName": "Embiid",
+    "playerId": 203954,
+    "id": 1610612755
+  },
+  {
+    "firstName": "Tacko",
+    "lastName": "Fall",
+    "playerId": 1629605,
+    "id": 1610612738
+  },
+  {
+    "firstName": "Derrick",
+    "lastName": "Favors",
+    "playerId": 202324,
+    "id": 1610612762
+  },
+  {
+    "firstName": "Bruno",
+    "lastName": "Fernando",
+    "playerId": 1628981,
+    "id": 1610612737
+  },
+  {
+    "firstName": "Yogi",
+    "lastName": "Ferrell",
+    "playerId": 1627812,
+    "id": 1610612746
+  },
+  {
+    "firstName": "Dorian",
+    "lastName": "Finney-Smith",
+    "playerId": 1627827,
+    "id": 1610612742
+  },
+  {
+    "firstName": "Bryn",
+    "lastName": "Forbes",
+    "playerId": 1627854,
+    "id": 1610612749
+  },
+  {
+    "firstName": "Trent",
+    "lastName": "Forrest",
+    "playerId": 1630235,
+    "id": 1610612762
+  },
+  {
+    "firstName": "Evan",
+    "lastName": "Fournier",
+    "playerId": 203095,
+    "id": 1610612738
+  },
+  {
+    "firstName": "Tim",
+    "lastName": "Frazier",
+    "playerId": 204025,
+    "id": 1610612763
+  },
+  {
+    "firstName": "Daniel",
+    "lastName": "Gafford",
+    "playerId": 1629655,
+    "id": 1610612764
+  },
+  {
+    "firstName": "Danilo",
+    "lastName": "Gallinari",
+    "playerId": 201568,
+    "id": 1610612737
+  },
+  {
+    "firstName": "Langston",
+    "lastName": "Galloway",
+    "playerId": 204038,
+    "id": 1610612756
+  },
+  {
+    "firstName": "Marc",
+    "lastName": "Gasol",
+    "playerId": 201188,
+    "id": 1610612747
+  },
+  {
+    "firstName": "Paul",
+    "lastName": "George",
+    "playerId": 202331,
+    "id": 1610612746
+  },
+  {
+    "firstName": "Taj",
+    "lastName": "Gibson",
+    "playerId": 201959,
+    "id": 1610612752
+  },
+  {
+    "firstName": "Harry",
+    "lastName": "Giles III",
+    "playerId": 1628385,
+    "id": 1610612757
+  },
+  {
+    "firstName": "Anthony",
+    "lastName": "Gill",
+    "playerId": 1630264,
+    "id": 1610612764
+  },
+  {
+    "firstName": "Rudy",
+    "lastName": "Gobert",
+    "playerId": 203497,
+    "id": 1610612762
+  },
+  {
+    "firstName": "Brandon",
+    "lastName": "Goodwin",
+    "playerId": 1629164,
+    "id": 1610612737
+  },
+  {
+    "firstName": "Aaron",
+    "lastName": "Gordon",
+    "playerId": 203932,
+    "id": 1610612743
+  },
+  {
+    "firstName": "Danny",
+    "lastName": "Green",
+    "playerId": 201980,
+    "id": 1610612755
+  },
+  {
+    "firstName": "JaMychal",
+    "lastName": "Green",
+    "playerId": 203210,
+    "id": 1610612743
+  },
+  {
+    "firstName": "Jeff",
+    "lastName": "Green",
+    "playerId": 201145,
+    "id": 1610612751
+  },
+  {
+    "firstName": "Josh",
+    "lastName": "Green",
+    "playerId": 1630182,
+    "id": 1610612742
+  },
+  {
+    "firstName": "Blake",
+    "lastName": "Griffin",
+    "playerId": 201933,
+    "id": 1610612751
+  },
+  {
+    "firstName": "Rui",
+    "lastName": "Hachimura",
+    "playerId": 1629060,
+    "id": 1610612764
+  },
+  {
+    "firstName": "Tim",
+    "lastName": "Hardaway Jr.",
+    "playerId": 203501,
+    "id": 1610612742
+  },
+  {
+    "firstName": "James",
+    "lastName": "Harden",
+    "playerId": 201935,
+    "id": 1610612751
+  },
+  {
+    "firstName": "Jared",
+    "lastName": "Harper",
+    "playerId": 1629607,
+    "id": 1610612752
+  },
+  {
+    "firstName": "Montrezl",
+    "lastName": "Harrell",
+    "playerId": 1626149,
+    "id": 1610612747
+  },
+  {
+    "firstName": "Joe",
+    "lastName": "Harris",
+    "playerId": 203925,
+    "id": 1610612751
+  },
+  {
+    "firstName": "Tobias",
+    "lastName": "Harris",
+    "playerId": 202699,
+    "id": 1610612755
+  },
+  {
+    "firstName": "Shaquille",
+    "lastName": "Harrison",
+    "playerId": 1627885,
+    "id": 1610612743
+  },
+  {
+    "firstName": "Udonis",
+    "lastName": "Haslem",
+    "playerId": 2617,
+    "id": 1610612748
+  },
+  {
+    "firstName": "Tyler",
+    "lastName": "Herro",
+    "playerId": 1629639,
+    "id": 1610612748
+  },
+  {
+    "firstName": "George",
+    "lastName": "Hill",
+    "playerId": 201588,
+    "id": 1610612755
+  },
+  {
+    "firstName": "Solomon",
+    "lastName": "Hill",
+    "playerId": 203524,
+    "id": 1610612737
+  },
+  {
+    "firstName": "Nate",
+    "lastName": "Hinton",
+    "playerId": 1630207,
+    "id": 1610612742
+  },
+  {
+    "firstName": "Jrue",
+    "lastName": "Holiday",
+    "playerId": 201950,
+    "id": 1610612749
+  },
+  {
+    "firstName": "Rondae",
+    "lastName": "Hollis-Jefferson",
+    "playerId": 1626178,
+    "id": 1610612757
+  },
+  {
+    "firstName": "Talen",
+    "lastName": "Horton-Tucker",
+    "playerId": 1629659,
+    "id": 1610612747
+  },
+  {
+    "firstName": "Dwight",
+    "lastName": "Howard",
+    "playerId": 2730,
+    "id": 1610612755
+  },
+  {
+    "firstName": "Markus",
+    "lastName": "Howard",
+    "playerId": 1630210,
+    "id": 1610612743
+  },
+  {
+    "firstName": "Kevin",
+    "lastName": "Huerter",
+    "playerId": 1628989,
+    "id": 1610612737
+  },
+  {
+    "firstName": "Elijah",
+    "lastName": "Hughes",
+    "playerId": 1630190,
+    "id": 1610612762
+  },
+  {
+    "firstName": "De'Andre",
+    "lastName": "Hunter",
+    "playerId": 1629631,
+    "id": 1610612737
+  },
+  {
+    "firstName": "Chandler",
+    "lastName": "Hutchison",
+    "playerId": 1628990,
+    "id": 1610612764
+  },
+  {
+    "firstName": "Serge",
+    "lastName": "Ibaka",
+    "playerId": 201586,
+    "id": 1610612746
+  },
+  {
+    "firstName": "Andre",
+    "lastName": "Iguodala",
+    "playerId": 2738,
+    "id": 1610612748
+  },
+  {
+    "firstName": "Ersan",
+    "lastName": "Ilyasova",
+    "playerId": 101141,
+    "id": 1610612762
+  },
+  {
+    "firstName": "Joe",
+    "lastName": "Ingles",
+    "playerId": 204060,
+    "id": 1610612762
+  },
+  {
+    "firstName": "Kyrie",
+    "lastName": "Irving",
+    "playerId": 202681,
+    "id": 1610612751
+  },
+  {
+    "firstName": "Justin",
+    "lastName": "Jackson",
+    "playerId": 1628382,
+    "id": 1610612749
+  },
+  {
+    "firstName": "Reggie",
+    "lastName": "Jackson",
+    "playerId": 202704,
+    "id": 1610612746
+  },
+  {
+    "firstName": "Jaren",
+    "lastName": "Jackson Jr.",
+    "playerId": 1628991,
+    "id": 1610612763
+  },
+  {
+    "firstName": "LeBron",
+    "lastName": "James",
+    "playerId": 2544,
+    "id": 1610612747
+  },
+  {
+    "firstName": "Mike",
+    "lastName": "James",
+    "playerId": 1628455,
+    "id": 1610612751
+  },
+  {
+    "firstName": "Isaiah",
+    "lastName": "Joe",
+    "playerId": 1630198,
+    "id": 1610612755
+  },
+  {
+    "firstName": "Alize",
+    "lastName": "Johnson",
+    "playerId": 1628993,
+    "id": 1610612751
+  },
+  {
+    "firstName": "Cameron",
+    "lastName": "Johnson",
+    "playerId": 1629661,
+    "id": 1610612756
+  },
+  {
+    "firstName": "Tyler",
+    "lastName": "Johnson",
+    "playerId": 204020,
+    "id": 1610612751
+  },
+  {
+    "firstName": "Nikola",
+    "lastName": "Jokic",
+    "playerId": 203999,
+    "id": 1610612743
+  },
+  {
+    "firstName": "Tyus",
+    "lastName": "Jones",
+    "playerId": 1626145,
+    "id": 1610612763
+  },
+  {
+    "firstName": "Derrick",
+    "lastName": "Jones Jr.",
+    "playerId": 1627884,
+    "id": 1610612757
+  },
+  {
+    "firstName": "DeAndre",
+    "lastName": "Jordan",
+    "playerId": 201599,
+    "id": 1610612751
+  },
+  {
+    "firstName": "Frank",
+    "lastName": "Kaminsky",
+    "playerId": 1626163,
+    "id": 1610612756
+  },
+  {
+    "firstName": "Enes",
+    "lastName": "Kanter",
+    "playerId": 202683,
+    "id": 1610612757
+  },
+  {
+    "firstName": "Luke",
+    "lastName": "Kennard",
+    "playerId": 1628379,
+    "id": 1610612746
+  },
+  {
+    "firstName": "Maxi",
+    "lastName": "Kleber",
+    "playerId": 1628467,
+    "id": 1610612742
+  },
+  {
+    "firstName": "Nathan",
+    "lastName": "Knight",
+    "playerId": 1630233,
+    "id": 1610612737
+  },
+  {
+    "firstName": "Kevin",
+    "lastName": "Knox II",
+    "playerId": 1628995,
+    "id": 1610612752
+  },
+  {
+    "firstName": "John",
+    "lastName": "Konchar",
+    "playerId": 1629723,
+    "id": 1610612763
+  },
+  {
+    "firstName": "Furkan",
+    "lastName": "Korkmaz",
+    "playerId": 1627788,
+    "id": 1610612755
+  },
+  {
+    "firstName": "Luke",
+    "lastName": "Kornet",
+    "playerId": 1628436,
+    "id": 1610612738
+  },
+  {
+    "firstName": "Kyle",
+    "lastName": "Kuzma",
+    "playerId": 1628398,
+    "id": 1610612747
+  },
+  {
+    "firstName": "Romeo",
+    "lastName": "Langford",
+    "playerId": 1629641,
+    "id": 1610612738
+  },
+  {
+    "firstName": "T.J.",
+    "lastName": "Leaf",
+    "playerId": 1628388,
+    "id": 1610612757
+  },
+  {
+    "firstName": "Alex",
+    "lastName": "Len",
+    "playerId": 203458,
+    "id": 1610612764
+  },
+  {
+    "firstName": "Kawhi",
+    "lastName": "Leonard",
+    "playerId": 202695,
+    "id": 1610612746
+  },
+  {
+    "firstName": "Damian",
+    "lastName": "Lillard",
+    "playerId": 203081,
+    "id": 1610612757
+  },
+  {
+    "firstName": "Nassir",
+    "lastName": "Little",
+    "playerId": 1629642,
+    "id": 1610612757
+  },
+  {
+    "firstName": "Brook",
+    "lastName": "Lopez",
+    "playerId": 201572,
+    "id": 1610612749
+  },
+  {
+    "firstName": "Robin",
+    "lastName": "Lopez",
+    "playerId": 201577,
+    "id": 1610612764
+  },
+  {
+    "firstName": "Timothe",
+    "lastName": "Luwawu-Cabarrot",
+    "playerId": 1627789,
+    "id": 1610612751
+  },
+  {
+    "firstName": "Terance",
+    "lastName": "Mann",
+    "playerId": 1629611,
+    "id": 1610612746
+  },
+  {
+    "firstName": "Boban",
+    "lastName": "Marjanovic",
+    "playerId": 1626246,
+    "id": 1610612742
+  },
+  {
+    "firstName": "Garrison",
+    "lastName": "Mathews",
+    "playerId": 1629726,
+    "id": 1610612764
+  },
+  {
+    "firstName": "Wesley",
+    "lastName": "Matthews",
+    "playerId": 202083,
+    "id": 1610612747
+  },
+  {
+    "firstName": "Tyrese",
+    "lastName": "Maxey",
+    "playerId": 1630178,
+    "id": 1610612755
+  },
+  {
+    "firstName": "Skylar",
+    "lastName": "Mays",
+    "playerId": 1630219,
+    "id": 1610612737
+  },
+  {
+    "firstName": "CJ",
+    "lastName": "McCollum",
+    "playerId": 203468,
+    "id": 1610612757
+  },
+  {
+    "firstName": "Sean",
+    "lastName": "McDermott",
+    "playerId": 1630253,
+    "id": 1610612763
+  },
+  {
+    "firstName": "JaVale",
+    "lastName": "McGee",
+    "playerId": 201580,
+    "id": 1610612743
+  },
+  {
+    "firstName": "Alfonzo",
+    "lastName": "McKinnie",
+    "playerId": 1628035,
+    "id": 1610612747
+  },
+  {
+    "firstName": "Ben",
+    "lastName": "McLemore",
+    "playerId": 203463,
+    "id": 1610612747
+  },
+  {
+    "firstName": "Nicolo",
+    "lastName": "Melli",
+    "playerId": 1629740,
+    "id": 1610612742
+  },
+  {
+    "firstName": "De'Anthony",
+    "lastName": "Melton",
+    "playerId": 1629001,
+    "id": 1610612763
+  },
+  {
+    "firstName": "Sam",
+    "lastName": "Merrill",
+    "playerId": 1630241,
+    "id": 1610612749
+  },
+  {
+    "firstName": "Khris",
+    "lastName": "Middleton",
+    "playerId": 203114,
+    "id": 1610612749
+  },
+  {
+    "firstName": "Paul",
+    "lastName": "Millsap",
+    "playerId": 200794,
+    "id": 1610612743
+  },
+  {
+    "firstName": "Shake",
+    "lastName": "Milton",
+    "playerId": 1629003,
+    "id": 1610612755
+  },
+  {
+    "firstName": "Donovan",
+    "lastName": "Mitchell",
+    "playerId": 1628378,
+    "id": 1610612762
+  },
+  {
+    "firstName": "E'Twaun",
+    "lastName": "Moore",
+    "playerId": 202734,
+    "id": 1610612756
+  },
+  {
+    "firstName": "Ja",
+    "lastName": "Morant",
+    "playerId": 1629630,
+    "id": 1610612763
+  },
+  {
+    "firstName": "Juwan",
+    "lastName": "Morgan",
+    "playerId": 1629752,
+    "id": 1610612762
+  },
+  {
+    "firstName": "Markieff",
+    "lastName": "Morris",
+    "playerId": 202693,
+    "id": 1610612747
+  },
+  {
+    "firstName": "Monte",
+    "lastName": "Morris",
+    "playerId": 1628420,
+    "id": 1610612743
+  },
+  {
+    "firstName": "Marcus",
+    "lastName": "Morris Sr.",
+    "playerId": 202694,
+    "id": 1610612746
+  },
+  {
+    "firstName": "Jamal",
+    "lastName": "Murray",
+    "playerId": 1627750,
+    "id": 1610612743
+  },
+  {
+    "firstName": "Abdel",
+    "lastName": "Nader",
+    "playerId": 1627846,
+    "id": 1610612756
+  },
+  {
+    "firstName": "Aaron",
+    "lastName": "Nesmith",
+    "playerId": 1630174,
+    "id": 1610612738
+  },
+  {
+    "firstName": "Raul",
+    "lastName": "Neto",
+    "playerId": 203526,
+    "id": 1610612764
+  },
+  {
+    "firstName": "Georges",
+    "lastName": "Niang",
+    "playerId": 1627777,
+    "id": 1610612762
+  },
+  {
+    "firstName": "Zeke",
+    "lastName": "Nnaji",
+    "playerId": 1630192,
+    "id": 1610612743
+  },
+  {
+    "firstName": "Nerlens",
+    "lastName": "Noel",
+    "playerId": 203457,
+    "id": 1610612752
+  },
+  {
+    "firstName": "Frank",
+    "lastName": "Ntilikina",
+    "playerId": 1628373,
+    "id": 1610612752
+  },
+  {
+    "firstName": "Kendrick",
+    "lastName": "Nunn",
+    "playerId": 1629134,
+    "id": 1610612748
+  },
+  {
+    "firstName": "Jusuf",
+    "lastName": "Nurkic",
+    "playerId": 203994,
+    "id": 1610612757
+  },
+  {
+    "firstName": "Jordan",
+    "lastName": "Nwora",
+    "playerId": 1629670,
+    "id": 1610612749
+  },
+  {
+    "firstName": "Royce",
+    "lastName": "O'Neale",
+    "playerId": 1626220,
+    "id": 1610612762
+  },
+  {
+    "firstName": "Semi",
+    "lastName": "Ojeleye",
+    "playerId": 1628400,
+    "id": 1610612738
+  },
+  {
+    "firstName": "Onyeka",
+    "lastName": "Okongwu",
+    "playerId": 1630168,
+    "id": 1610612737
+  },
+  {
+    "firstName": "KZ",
+    "lastName": "Okpala",
+    "playerId": 1629644,
+    "id": 1610612748
+  },
+  {
+    "firstName": "Victor",
+    "lastName": "Oladipo",
+    "playerId": 203506,
+    "id": 1610612748
+  },
+  {
+    "firstName": "Miye",
+    "lastName": "Oni",
+    "playerId": 1629671,
+    "id": 1610612762
+  },
+  {
+    "firstName": "Daniel",
+    "lastName": "Oturu",
+    "playerId": 1630187,
+    "id": 1610612746
+  },
+  {
+    "firstName": "Jabari",
+    "lastName": "Parker",
+    "playerId": 203953,
+    "id": 1610612738
+  },
+  {
+    "firstName": "Patrick",
+    "lastName": "Patterson",
+    "playerId": 202335,
+    "id": 1610612746
+  },
+  {
+    "firstName": "Chris",
+    "lastName": "Paul",
+    "playerId": 101108,
+    "id": 1610612756
+  },
+  {
+    "firstName": "Cameron",
+    "lastName": "Payne",
+    "playerId": 1626166,
+    "id": 1610612756
+  },
+  {
+    "firstName": "Elfrid",
+    "lastName": "Payton",
+    "playerId": 203901,
+    "id": 1610612752
+  },
+  {
+    "firstName": "Norvel",
+    "lastName": "Pelle",
+    "playerId": 203658,
+    "id": 1610612752
+  },
+  {
+    "firstName": "Reggie",
+    "lastName": "Perry",
+    "playerId": 1629617,
+    "id": 1610612751
+  },
+  {
+    "firstName": "Theo",
+    "lastName": "Pinson",
+    "playerId": 1629033,
+    "id": 1610612752
+  },
+  {
+    "firstName": "Jontay",
+    "lastName": "Porter",
+    "playerId": 1629007,
+    "id": 1610612763
+  },
+  {
+    "firstName": "Michael",
+    "lastName": "Porter Jr.",
+    "playerId": 1629008,
+    "id": 1610612743
+  },
+  {
+    "firstName": "Bobby",
+    "lastName": "Portis",
+    "playerId": 1626171,
+    "id": 1610612749
+  },
+  {
+    "firstName": "Kristaps",
+    "lastName": "Porzingis",
+    "playerId": 204001,
+    "id": 1610612742
+  },
+  {
+    "firstName": "Dwight",
+    "lastName": "Powell",
+    "playerId": 203939,
+    "id": 1610612742
+  },
+  {
+    "firstName": "Norman",
+    "lastName": "Powell",
+    "playerId": 1626181,
+    "id": 1610612757
+  },
+  {
+    "firstName": "Payton",
+    "lastName": "Pritchard",
+    "playerId": 1630202,
+    "id": 1610612738
+  },
+  {
+    "firstName": "Immanuel",
+    "lastName": "Quickley",
+    "playerId": 1630193,
+    "id": 1610612752
+  },
+  {
+    "firstName": "Julius",
+    "lastName": "Randle",
+    "playerId": 203944,
+    "id": 1610612752
+  },
+  {
+    "firstName": "Cam",
+    "lastName": "Reddish",
+    "playerId": 1629629,
+    "id": 1610612737
+  },
+  {
+    "firstName": "JJ",
+    "lastName": "Redick",
+    "playerId": 200755,
+    "id": 1610612742
+  },
+  {
+    "firstName": "Paul",
+    "lastName": "Reed",
+    "playerId": 1630194,
+    "id": 1610612755
+  },
+  {
+    "firstName": "Josh",
+    "lastName": "Richardson",
+    "playerId": 1626196,
+    "id": 1610612742
+  },
+  {
+    "firstName": "Austin",
+    "lastName": "Rivers",
+    "playerId": 203085,
+    "id": 1610612743
+  },
+  {
+    "firstName": "Duncan",
+    "lastName": "Robinson",
+    "playerId": 1629130,
+    "id": 1610612748
+  },
+  {
+    "firstName": "Mitchell",
+    "lastName": "Robinson",
+    "playerId": 1629011,
+    "id": 1610612752
+  },
+  {
+    "firstName": "Rajon",
+    "lastName": "Rondo",
+    "playerId": 200765,
+    "id": 1610612746
+  },
+  {
+    "firstName": "Derrick",
+    "lastName": "Rose",
+    "playerId": 201565,
+    "id": 1610612752
+  },
+  {
+    "firstName": "Dario",
+    "lastName": "Saric",
+    "playerId": 203967,
+    "id": 1610612756
+  },
+  {
+    "firstName": "Dennis",
+    "lastName": "Schroder",
+    "playerId": 203471,
+    "id": 1610612747
+  },
+  {
+    "firstName": "Mike",
+    "lastName": "Scott",
+    "playerId": 203118,
+    "id": 1610612755
+  },
+  {
+    "firstName": "Jay",
+    "lastName": "Scrubb",
+    "playerId": 1630206,
+    "id": 1610612746
+  },
+  {
+    "firstName": "Landry",
+    "lastName": "Shamet",
+    "playerId": 1629013,
+    "id": 1610612751
+  },
+  {
+    "firstName": "Ben",
+    "lastName": "Simmons",
+    "playerId": 1627732,
+    "id": 1610612755
+  },
+  {
+    "firstName": "Anfernee",
+    "lastName": "Simons",
+    "playerId": 1629014,
+    "id": 1610612757
+  },
+  {
+    "firstName": "Marcus",
+    "lastName": "Smart",
+    "playerId": 203935,
+    "id": 1610612738
+  },
+  {
+    "firstName": "Ish",
+    "lastName": "Smith",
+    "playerId": 202397,
+    "id": 1610612764
+  },
+  {
+    "firstName": "Jalen",
+    "lastName": "Smith",
+    "playerId": 1630188,
+    "id": 1610612756
+  },
+  {
+    "firstName": "Tony",
+    "lastName": "Snell",
+    "playerId": 203503,
+    "id": 1610612737
+  },
+  {
+    "firstName": "Max",
+    "lastName": "Strus",
+    "playerId": 1629622,
+    "id": 1610612748
+  },
+  {
+    "firstName": "Jayson",
+    "lastName": "Tatum",
+    "playerId": 1628369,
+    "id": 1610612738
+  },
+  {
+    "firstName": "Jeff",
+    "lastName": "Teague",
+    "playerId": 201952,
+    "id": 1610612749
+  },
+  {
+    "firstName": "Tyrell",
+    "lastName": "Terry",
+    "playerId": 1630179,
+    "id": 1610612742
+  },
+  {
+    "firstName": "Matt",
+    "lastName": "Thomas",
+    "playerId": 1629744,
+    "id": 1610612762
+  },
+  {
+    "firstName": "Tristan",
+    "lastName": "Thompson",
+    "playerId": 202684,
+    "id": 1610612738
+  },
+  {
+    "firstName": "Matisse",
+    "lastName": "Thybulle",
+    "playerId": 1629680,
+    "id": 1610612755
+  },
+  {
+    "firstName": "Killian",
+    "lastName": "Tillie",
+    "playerId": 1629681,
+    "id": 1610612763
+  },
+  {
+    "firstName": "Xavier",
+    "lastName": "Tillman",
+    "playerId": 1630214,
+    "id": 1610612763
+  },
+  {
+    "firstName": "Anthony",
+    "lastName": "Tolliver",
+    "playerId": 201229,
+    "id": 1610612755
+  },
+  {
+    "firstName": "Obi",
+    "lastName": "Toppin",
+    "playerId": 1630167,
+    "id": 1610612752
+  },
+  {
+    "firstName": "Axel",
+    "lastName": "Toupane",
+    "playerId": 1626253,
+    "id": 1610612749
+  },
+  {
+    "firstName": "P.J.",
+    "lastName": "Tucker",
+    "playerId": 200782,
+    "id": 1610612749
+  },
+  {
+    "firstName": "Rayjon",
+    "lastName": "Tucker",
+    "playerId": 1629730,
+    "id": 1610612755
+  },
+  {
+    "firstName": "Jonas",
+    "lastName": "Valanciunas",
+    "playerId": 202685,
+    "id": 1610612763
+  },
+  {
+    "firstName": "Luca",
+    "lastName": "Vildoza",
+    "playerId": 1630492,
+    "id": 1610612752
+  },
+  {
+    "firstName": "Gabe",
+    "lastName": "Vincent",
+    "playerId": 1629216,
+    "id": 1610612748
+  },
+  {
+    "firstName": "Kemba",
+    "lastName": "Walker",
+    "playerId": 202689,
+    "id": 1610612738
+  },
+  {
+    "firstName": "Tremont",
+    "lastName": "Waters",
+    "playerId": 1629682,
+    "id": 1610612738
+  },
+  {
+    "firstName": "Russell",
+    "lastName": "Westbrook",
+    "playerId": 201566,
+    "id": 1610612764
+  },
+  {
+    "firstName": "Grant",
+    "lastName": "Williams",
+    "playerId": 1629684,
+    "id": 1610612738
+  },
+  {
+    "firstName": "Lou",
+    "lastName": "Williams",
+    "playerId": 101150,
+    "id": 1610612737
+  },
+  {
+    "firstName": "Robert",
+    "lastName": "Williams III",
+    "playerId": 1629057,
+    "id": 1610612738
+  },
+  {
+    "firstName": "Justise",
+    "lastName": "Winslow",
+    "playerId": 1626159,
+    "id": 1610612763
+  },
+  {
+    "firstName": "Cassius",
+    "lastName": "Winston",
+    "playerId": 1630216,
+    "id": 1610612764
+  },
+  {
+    "firstName": "Trae",
+    "lastName": "Young",
+    "playerId": 1629027,
+    "id": 1610612737
+  },
+  {
+    "firstName": "Omer",
+    "lastName": "Yurtseven",
+    "playerId": 1630209,
+    "id": 1610612748
+  },
+  {
+    "firstName": "Ivica",
+    "lastName": "Zubac",
+    "playerId": 1627826,
+    "id": 1610612746
+  }
+]
 }
